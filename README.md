@@ -1,1 +1,1 @@
-# fashion-ai-classifier
+# ai-sketch-classifier
